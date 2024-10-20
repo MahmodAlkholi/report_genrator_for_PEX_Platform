@@ -2,4 +2,4 @@ pdfplumber
 pytesseract
 Pillow
 PyMuPDF
-openai
+openai==0.28
