@@ -3,5 +3,3 @@ pytesseract
 Pillow
 PyMuPDF
 openai==0.28
-pytesseract-ocr
-
