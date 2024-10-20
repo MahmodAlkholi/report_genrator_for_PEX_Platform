@@ -1,5 +1,5 @@
 pdfplumber
-Pillow==9.5.0
+Pillow
 pytesseract==0.3.10
 openai==0.27.0
 PyMuPDF==1.22.0
