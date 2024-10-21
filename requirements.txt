@@ -1,4 +1,5 @@
 pdfplumber
+tesseract
 pytesseract
 Pillow
 PyMuPDF
